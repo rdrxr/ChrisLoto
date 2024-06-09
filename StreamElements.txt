@@ -1,0 +1,1 @@
+!command edit so 📢 ${user} streamt auch hier auf Twitch DinoDance schau bitte kurz bei https://www.twitch.tv/${channel ${1}} rein und lass einen Follow da TwitchUnity Dᴀɴᴋᴇ 📢
