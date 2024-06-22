@@ -1,1 +1,11 @@
+Übersicht:
+https://streamelements.com/chris_loto/commands/custom?sortBy=accessLevel&order=asc
+
 !command edit so 📢 ${user} streamt auch hier auf Twitch DinoDance schau bitte kurz bei https://www.twitch.tv/${channel ${1}} rein und lass einen Follow da TwitchUnity Dᴀɴᴋᴇ 📢
+!command edit modsloben <3 Liebe <3 für die MOD's!!! Dᴀɴᴋᴇ das Ihr für uns da seid TwitchUnity Sie wurden schon ${count modsloben} mal gelobt !!!
+
+fehlt noch 
+!comloben
+!info mit Streamingzeiten, allenfalls verweis auf DC, geht automatisches Announcement?
+
+!lurkersloben command: Eigentlich könnte ich ja hier alles schreiben, weil liest ja eh niemand mit .....
