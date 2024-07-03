@@ -6,6 +6,7 @@ https://streamelements.com/chris_loto/commands/custom?sortBy=accessLevel&order=a
 
 fehlt noch 
 !comloben
-!info mit Streamingzeiten, allenfalls verweis auf DC, geht automatisches Announcement?
-
+!info mit Streamingzeiten nach einem Raid, mit automatisches Announcement? allenfalls verweis auf DC
 !lurkersloben command: Eigentlich könnte ich ja hier alles schreiben, weil liest ja eh niemand mit .....
+
+Raidsers in Titelzeile aufführen ... | TY Raiders: @blabla - Supermod-Rechte nötig
