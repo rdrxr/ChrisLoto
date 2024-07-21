@@ -3,7 +3,6 @@ https://streamelements.com/chris_loto/commands/custom?sortBy=accessLevel&order=a
 
 !command edit so 📢 ${user} streamt auch hier auf Twitch DinoDance schau bitte kurz bei https://www.twitch.tv/${channel ${1}} rein und lass einen Follow da TwitchUnity Dᴀɴᴋᴇ 📢
 !command edit modsloben <3 Liebe <3 für die MOD's!!! Dᴀɴᴋᴇ das Ihr für uns da seid TwitchUnity Sie wurden schon ${count modsloben} mal gelobt !!!
-
 !command edit hugall $(sender) ${random.pick 'macht sich über jeden Einzelnen hier im Stream her, knuddelt ES/SIE/IHN TwitchUnity 𝙰𝚋𝚎𝚛 𝙼𝚊𝚕 𝚂𝚘 𝚁𝚒𝚌𝚑𝚝𝚒𝚐 𝙳𝚘𝚕𝚕𝚎 𝙳𝚞𝚛𝚌𝚑 🤗🤗🤗 ❣️❣️' 'piep piep, hab Euch lieb 🤗🤗🤗 ❣️❣️'}
 
 # heftige Variante
